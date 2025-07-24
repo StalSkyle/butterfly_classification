@@ -1,1 +1,4 @@
 .idea/
+train_butterflies/
+test_butterflies/
+.ipynb_checkpoints
